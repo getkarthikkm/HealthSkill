@@ -1,0 +1,102 @@
+id,postcode,age,gender,has_provider,has_children,marital_status,cover_type
+0,6169,54,male,0,1,single,hospital
+1,3485,66,male,0,0,married,hospital
+2,4408,55,female,1,1,single,extras
+3,2658,86,female,1,1,de facto,hospital
+4,4803,79,male,0,1,married,hospital
+5,3840,43,male,1,0,married,combined
+6,2379,84,female,0,1,single,hospital
+7,5485,62,male,0,0,single,combined
+8,2986,61,female,1,1,married,hospital
+9,2489,66,male,1,0,single,hospital
+10,2355,43,female,0,1,single,hospital
+11,5521,89,female,0,1,married,extras
+12,7236,23,male,0,0,married,extras
+13,6509,59,male,0,0,single,combined
+14,3281,89,male,1,1,married,extras
+15,3854,74,male,1,1,married,extras
+16,4155,58,male,1,1,de facto,extras
+17,2115,25,male,0,1,de facto,hospital
+18,5651,79,female,1,1,married,hospital
+19,3688,71,female,0,1,de facto,hospital
+20,3139,71,female,1,1,married,hospital
+21,4385,78,male,0,0,single,extras
+22,5013,86,female,1,1,de facto,extras
+23,3936,72,female,1,0,de facto,hospital
+24,4604,67,female,0,0,de facto,extras
+25,3083,72,male,0,1,single,extras
+26,5400,82,male,0,0,de facto,hospital
+27,9531,61,male,0,0,single,combined
+28,3171,19,female,1,1,single,hospital
+29,7325,81,male,0,1,married,extras
+30,6623,29,male,1,1,de facto,combined
+31,4175,63,male,0,1,de facto,extras
+32,6509,34,male,0,0,de facto,combined
+33,3032,90,female,1,1,married,hospital
+34,5352,22,male,0,0,de facto,extras
+35,9777,60,male,1,1,de facto,hospital
+36,4522,23,female,0,1,married,combined
+37,2575,42,female,0,1,single,extras
+38,3025,68,male,0,1,de facto,extras
+39,2002,45,female,1,1,married,hospital
+40,3172,69,male,0,1,single,hospital
+41,2290,71,female,1,0,married,extras
+42,2478,84,female,1,1,married,hospital
+43,2281,61,female,1,0,single,combined
+44,6536,36,female,0,0,married,combined
+45,1454,28,male,1,1,single,combined
+46,3074,31,female,1,1,de facto,extras
+47,3374,41,male,0,0,de facto,hospital
+48,4230,53,male,1,1,single,combined
+49,1582,80,male,0,1,single,hospital
+50,1423,48,male,1,0,married,hospital
+51,7555,43,male,0,0,married,extras
+52,6392,48,male,0,0,de facto,extras
+53,6638,73,male,0,1,de facto,hospital
+54,1755,81,female,1,0,de facto,extras
+55,5156,28,female,0,1,married,extras
+56,2480,31,male,1,1,single,extras
+57,2352,32,female,0,1,single,combined
+58,7263,71,male,1,0,de facto,hospital
+59,3164,29,male,0,1,de facto,combined
+60,2755,41,male,1,1,married,combined
+61,5403,88,male,1,0,de facto,extras
+62,5106,77,female,0,1,married,extras
+63,6069,33,male,1,1,married,hospital
+64,3216,74,male,0,1,married,extras
+65,2661,85,male,0,0,married,hospital
+66,4351,28,female,0,1,single,hospital
+67,4781,25,male,0,0,single,extras
+68,4874,26,female,1,1,single,hospital
+69,4021,75,female,1,0,de facto,hospital
+70,4657,73,male,0,0,single,hospital
+71,5710,81,female,1,0,de facto,hospital
+72,6909,70,male,0,1,de facto,extras
+73,2028,84,male,0,1,married,combined
+74,2671,50,female,0,0,single,hospital
+75,2633,19,female,0,1,single,hospital
+76,3934,33,male,0,1,single,combined
+77,3836,69,female,1,0,de facto,extras
+78,0886,79,male,0,0,de facto,combined
+79,5050,60,male,0,1,married,extras
+80,6701,23,male,0,0,single,hospital
+81,3023,59,female,0,1,single,extras
+82,8200,48,male,1,0,single,extras
+83,3304,35,female,0,1,married,extras
+84,3169,64,male,0,0,de facto,combined
+85,2875,64,female,0,1,single,hospital
+86,4187,83,male,0,1,married,combined
+87,2301,72,female,0,0,single,hospital
+88,4723,33,female,1,0,de facto,hospital
+89,4106,74,male,1,0,de facto,extras
+90,1922,58,female,1,0,single,combined
+91,6820,20,female,1,1,married,extras
+92,3083,30,male,1,0,de facto,extras
+93,8881,67,male,0,1,de facto,extras
+94,6361,77,female,0,0,single,hospital
+95,4743,62,male,0,0,single,extras
+96,5331,20,female,0,1,married,extras
+97,4489,20,male,1,1,single,combined
+98,4909,86,male,1,1,married,hospital
+99,4508,59,male,1,1,de facto,hospital
+100,2013,72,male,0,1,single,extras
